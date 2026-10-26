@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "Intelligent decision engine featuring AI pros & cons, multi-criteria comparison tables, SWOT matrices, and decision psychology tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
